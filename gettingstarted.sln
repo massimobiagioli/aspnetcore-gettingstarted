@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gettingstarted", "gettingstarted\gettingstarted.csproj", "{4738D840-35B1-4B66-B6E9-34019AB6A093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gettingstarted_tests", "gettingstarted_tests\gettingstarted_tests.csproj", "{7F220887-CEE4-4B02-8887-3AE8B7D0342C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4738D840-35B1-4B66-B6E9-34019AB6A093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4738D840-35B1-4B66-B6E9-34019AB6A093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4738D840-35B1-4B66-B6E9-34019AB6A093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4738D840-35B1-4B66-B6E9-34019AB6A093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F220887-CEE4-4B02-8887-3AE8B7D0342C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F220887-CEE4-4B02-8887-3AE8B7D0342C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F220887-CEE4-4B02-8887-3AE8B7D0342C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F220887-CEE4-4B02-8887-3AE8B7D0342C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
